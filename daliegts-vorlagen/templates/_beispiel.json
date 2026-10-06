@@ -1,0 +1,14 @@
+{
+  "name": "Beispiel Kleinteilemagazin 12 Schubladen (30×20 cm)",
+  "kind": "magazin",
+  "group": "Sortimentskästen",
+  "author": "dein Name oder GitHub-Name",
+  "notes": "Gehäuse 30 × 20 × 14 cm. Quelle: Herstellerangabe, am eigenen Exemplar geprüft.",
+  "definition": {
+    "type": "magazin",
+    "rows": 4,
+    "cols": 3,
+    "width_cm": 30,
+    "height_cm": 20
+  }
+}
